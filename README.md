@@ -5,7 +5,7 @@ https://challengedata.ens.fr/participants/challenges/149/
 ## Project Architecture
 See the ProjectArchitecture.pdf file.
 
-### Submission History (Attempts)
+## Submission History (Attempts)
 | File | Type  | Description | Hyperparameter Optimization | Features | Score |
 | :--- | :---  |     :--     |   :---                      |  :---    |  :--- |
 | **y_test_LSTM_v3.1_sorted** | Non Autoregressive model | LSTMn°3, no validation data | No  | \['job', 'ferie', 'vacances'\]      |  **219.14**  |

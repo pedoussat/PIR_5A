@@ -3,7 +3,7 @@ This project implements LSTM deep learning models to predict passenger traffic a
 https://challengedata.ens.fr/participants/challenges/149/
 
 ## Data
-The file containing the x_train data is too large, so please find all the data on this drive.
+The files containing the data are too large, so please find all the data on this drive.
 
 https://drive.google.com/drive/u/0/folders/1EW-k1jYezIveOdagwA_kmZXe0bI-L3Uk
 
